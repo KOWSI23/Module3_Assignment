@@ -1,0 +1,41 @@
+body{
+	background-color: grey;
+}
+.h1{
+	text-align: center;
+	color: blue;
+}
+.item{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px 2em;
+	text-align: center;
+	color: brown;
+	font-weight: bolder;
+	font-size: 50px;
+	background-color: lightblue;
+	margin: auto;
+	width: 50%;
+	border: 3px solid blue;
+	padding: 10px;
+	position: all;
+	top: 0;
+}
+
+#para{
+	font-size: 20px;
+	font-weight: bolder;
+	font-style: initial;
+	background-color: yellow;
+	opacity: .4;
+	color: black;
+	padding: 10px 10px 10px 10px;
+	border: 3px solid green;
+	margin: 40px;
+	width: 50%;
+	float: left;
+	position: baseline;
+	bottom: 0;
+	align-content: center;
+
+}
